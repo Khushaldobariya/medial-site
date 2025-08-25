@@ -112,7 +112,7 @@
 
 	#main_menu > ul > li > a {
 		padding: 7px 15px 7px 20px;
-		color: #0088ff;
+		color: #1bb89d;
 	}
 
 	#main_menu > ul > li > a::before {
@@ -126,7 +126,7 @@
 		-webkit-transform: translateX(0);
 		-ms-transform: translateX(0);
 		transform: translateX(0);
-		background: #0088ff;
+		background: #1bb89d;
 		visibility: hidden;
 		opacity: 0;
 		transition: all .3s ease;
@@ -689,8 +689,8 @@
 	}
 
 	.blog-card:hover {
-		-webkit-box-shadow: 0 0 0 3px #0088ff;
-		box-shadow: 0 0 0 3px #0088ff;
+		-webkit-box-shadow: 0 0 0 3px #1bb89d;
+		box-shadow: 0 0 0 3px #1bb89d;
 	}
 	.the_post_thumbnail{border-radius: 13px !important;}
 	.the_post_thumbnail,
